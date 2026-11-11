@@ -1,0 +1,1 @@
+alert("Hai, ini hasil coba JS External dengan HTML");
